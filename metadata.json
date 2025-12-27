@@ -1,0 +1,9 @@
+
+{
+  "name": "FIXORA - Civic Intelligence Grid",
+  "description": "An AI-powered civic grievance platform for reporting, tracking, and resolving community issues with intelligent priority assessment.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
